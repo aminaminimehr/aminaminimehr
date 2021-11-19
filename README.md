@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate with financial departments in various majors such as algo-trading, risk management, portfolio optimization, financial predictions and much more.
 - 📫 In order to reach me, you can message me via E-mail: aminaminimehr@outlook.com or you can visit my linkedin profile with the following link https://www.linkedin.com/in/amin-aminimehr-9168bb135?originalSubdomain=ir
 - Furthermore I teach datascience facts with a specification on financial time series in my instagram account. you can visit my account by the following id: datascience.facts
+- Visit my website at https://www.aminimehr.com
 
 <!---
 aminaminimehr/aminaminimehr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
