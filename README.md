@@ -1,16 +1,40 @@
- Hi, I am Amin Aminimehr.
- My background has been entirely in Finance and Financial Management.
- 
-I am interested in Data Science, Machine Learning, Deep Learning and other statistical tools used in quantitative finance and econometrics.
-I am currently working on various aspects of financial analysis through Deep Learning methods. As a major aspect, I research on financial time series forecasting using Deep Neural Networks, through which I use Python programming language.
-Besides financial time series analysis, I have also worked on traffic industry; predicting traffic time series and processing heli shot camera videos.
+Hi, I am Amin Aminimehr.
+📚 My academic and professional foundation lies in Finance and Financial Management.
+   Bachelors of Financial Management
+   Masters of Financial engineering
+   Ph.D. student in Economics (Econometrics and Quantitative Economics)
 
-I’m looking to collaborate with finance related companies in different branches such as algo-trading, asset pricing, risk management, portfolio management, financial predictions and more.
-In order to reach me, you can message me via E-mail: me@aminimehr.com.
+💡 I am deeply passionate about Data Science, Machine Learning, Deep Learning, and other statistical tools applied to quantitative finance and econometrics.
 
+🛠️ Current Work:
 
+I am actively exploring financial analysis through advanced Deep Learning techniques.
+My primary focus is on financial time series forecasting using Deep Neural Networks with Python.
+Beyond finance, I have also contributed to projects in the traffic industry, including predicting traffic time series and processing heli-shot camera videos.
+🔧 Skills:
 
-<!---
-aminaminimehr/aminaminimehr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Programming: Python (NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch)
+Statistical Tools: R, MATLAB, EViews
+Visualization: Tableau, Matplotlib, Seaborn
+Data Management: SQL, BigQuery
+🎓 Education:
+
+Currently pursuing a Ph.D. in Economics, specializing in welfare economics and general equilibrium
+Master’s degree in Finance and Financial Management
+📜 Publications:
+
+- A comprehensive study of market prediction from efficient market hypothesis up to late intelligent market prediction approaches
+- A study on the characteristics of TSE index return data and introducing a regime switching prediction method based on neural networks
+- The role of feature engineering in prediction of tehran stock exchange index based on LSTM
+- ParsBERT post-training for sentiment analysis of tweets concerning stock market
+- The Strength of Convolutional Neural Network in Financial Distress Prediction
+
+🤝 Collaboration:
+I am eager to collaborate with companies in finance-related domains, including but not limited to:
+
+📈 Algorithmic Trading
+💼 Asset Pricing
+⚖️ Risk Management
+🧮 Portfolio Management
+🔮 Financial Forecasting and Predictions
+📬 Contact: Feel free to reach out via email at me@aminimehr.com.
