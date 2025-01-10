@@ -1,9 +1,6 @@
 Hi, I am Amin Aminimehr.
 
-📚 My academic and professional foundation lies in Finance and Financial Management:  
-- Bachelors of Financial Management  
-- Masters of Financial engineering  
-- Ph.D. student in Economics (Econometrics and Quantitative Economics)  
+)  
 
 💡 I am deeply passionate about Data Science, Machine Learning, Deep Learning, and other statistical tools applied to quantitative finance and econometrics.
 
@@ -11,17 +8,17 @@ Hi, I am Amin Aminimehr.
 
 I am actively exploring financial analysis through advanced Deep Learning techniques.
 My primary focus is on financial time series forecasting using Deep Neural Networks with Python.
-Beyond finance, I have also contributed to projects in the traffic industry, including predicting traffic time series and processing heli-shot camera videos.
-🔧 Skills:
-
+Beyond finance, I have also contributed to projects in the traffic industry, including predicting traffic time series and processing heli-shot camera videos.  
+🔧 Skills:  
 Programming: Python (NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch)
-Statistical Tools: R, MATLAB, EViews
+Statistical Tools: R, MATLAB
 Visualization: Tableau, Matplotlib, Seaborn
-Data Management: SQL, BigQuery
-🎓 Education:
-
-Currently pursuing a Ph.D. in Economics, specializing in welfare economics and general equilibrium
-Master’s degree in Finance and Financial Management
+Data Management: SQL
+🎓My academic and professional foundation lies in Finance and Financial Management:  
+- Bachelors of Financial Management  
+- Masters of Financial engineering  
+- Ph.D. student in Economics (Econometrics and Quantitative Economics
+  
 📜 Publications:
 
 - A comprehensive study of market prediction from efficient market hypothesis up to late intelligent market prediction approaches
