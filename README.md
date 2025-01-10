@@ -1,9 +1,9 @@
 Hi, I am Amin Aminimehr.
 
 📚 My academic and professional foundation lies in Finance and Financial Management:  
-Bachelors of Financial Management  
-Masters of Financial engineering  
-Ph.D. student in Economics (Econometrics and Quantitative Economics)  
+- Bachelors of Financial Management  
+- Masters of Financial engineering  
+- Ph.D. student in Economics (Econometrics and Quantitative Economics)  
 
 💡 I am deeply passionate about Data Science, Machine Learning, Deep Learning, and other statistical tools applied to quantitative finance and econometrics.
 
