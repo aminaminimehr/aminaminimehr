@@ -27,9 +27,9 @@ Data Management: SQL
 🤝 Collaboration:
 I am eager to collaborate with companies in finance-related domains, including but not limited to:
 
-📈 Algorithmic Trading
-💼 Asset Pricing
-⚖️ Risk Management
-🧮 Portfolio Management
-🔮 Financial Forecasting and Predictions
+📈 Algorithmic Trading  
+💼 Asset Pricing  
+⚖️ Risk Management  
+🧮 Portfolio Management  
+🔮 Financial Forecasting and Predictions  
 📬 Contact: Feel free to reach out via email at me@aminimehr.com.
