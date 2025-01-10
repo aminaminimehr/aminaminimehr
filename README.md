@@ -35,7 +35,7 @@ I am eager to collaborate with companies in finance-related domains, including b
 ⚖️ Risk Management  
 🧮 Portfolio Management  
 🔮 Financial Forecasting and Predictions  
-📬 Contact: Feel free to reach out via email at me@aminimehr.com.
+📬 Contact: Feel free to reach out via email at me@aminimehr.com.  
 <a href="https://www.linkedin.com/in/amin-aminimehr-6a260b323/" target="_blank" style="text-decoration: none; color: inherit;">
-    🔗 LinkedIn: www.linkedin.com/in/your-profile
+    🔗 LinkedIn: https://www.linkedin.com/in/amin-aminimehr-6a260b323/
 </a>
