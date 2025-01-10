@@ -1,6 +1,7 @@
 Hi, I am Amin Aminimehr.
 
-📚 My academic and professional foundation lies in Finance and Financial Management.
+📚 My academic and professional foundation lies in Finance and Financial Management:
+
 Bachelors of Financial Management
 Masters of Financial engineering
 Ph.D. student in Economics (Econometrics and Quantitative Economics)
