@@ -6,7 +6,9 @@ Hi, I am Amin Aminimehr.
 I am actively exploring financial analysis through advanced Deep Learning techniques.
 My primary focus is on financial time series forecasting using Deep Neural Networks with Python.
 Beyond finance, I have also contributed to projects in the traffic industry, including predicting traffic time series and processing heli-shot camera videos.  
+
 🔧 Skills:  
+
 Programming: Python (NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch)  
 Statistical Tools: R, MATLAB  
 Visualization: Tableau, Matplotlib, Seaborn  
@@ -24,7 +26,8 @@ Data Management: SQL
 - ParsBERT post-training for sentiment analysis of tweets concerning stock market
 - The Strength of Convolutional Neural Network in Financial Distress Prediction
 
-🤝 Collaboration:
+🤝 Collaboration:  
+
 I am eager to collaborate with companies in finance-related domains, including but not limited to:
 
 📈 Algorithmic Trading  
@@ -33,3 +36,6 @@ I am eager to collaborate with companies in finance-related domains, including b
 🧮 Portfolio Management  
 🔮 Financial Forecasting and Predictions  
 📬 Contact: Feel free to reach out via email at me@aminimehr.com.
+<a href="[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/amin-aminimehr-6a260b323/)" target="_blank" style="text-decoration: none; color: inherit;">
+    🔗 LinkedIn: www.linkedin.com/in/your-profile
+</a>
