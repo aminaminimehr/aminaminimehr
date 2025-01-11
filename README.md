@@ -11,6 +11,7 @@ Programming: Python (NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch)
 Statistical Tools: R, MATLAB  
 Visualization: Tableau, Matplotlib, Seaborn  
 Data Management: SQL  
+
 🎓My academic and professional foundation lies in Finance and Financial Management:  
 - Bachelors of Financial Management  
 - Masters of Financial engineering  
