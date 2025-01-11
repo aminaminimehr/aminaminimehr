@@ -1,7 +1,7 @@
 Hi, I am Amin Aminimehr.  
 💡 I am deeply passionate about Data Science, Machine Learning, Deep Learning, and other statistical tools applied to quantitative finance and econometrics.
 
-🛠️ Current Work:
+🛠️ Current Work:  
 I am actively exploring financial analysis through advanced Deep Learning techniques.
 My primary focus is on financial time series forecasting using Deep Neural Networks with Python.
 Beyond finance, I have also contributed to projects in the traffic industry, including predicting traffic time series and processing heli-shot camera videos.  
