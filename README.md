@@ -15,7 +15,7 @@ Data Management: SQL
 🎓My academic and professional foundation lies in Finance and Financial Management:  
 - Bachelors of Financial Management  
 - Masters of Financial engineering  
-- Ph.D. student in Economics (Econometrics and Quantitative Economics  
+- Ph.D. student in Economics (Econometrics and Quantitative Economics)  
   
 📜 Publications:
 - A comprehensive study of market prediction from efficient market hypothesis up to late intelligent market prediction approaches
