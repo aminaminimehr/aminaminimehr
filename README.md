@@ -16,7 +16,7 @@ In addition to financial applications, I have contributed to projects involving 
 
 Education:
 
-* Ph.D. Student in Business Analytics (Econometrics & Quantitative Economics), University of Cincinnati
+* Ph.D. Student in Business Analytics (Financial Mathematics), University of Cincinnati
 * M.S. in Financial Engineering
 * B.S. in Financial Management
 
