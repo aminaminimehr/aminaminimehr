@@ -32,9 +32,15 @@ I am always interested in collaborating on research and industry projects relate
 
 Links:
 🌐 [Website: https://aminimehr.com](https://aminimehr.com/)
+
 📚 Google Scholar: [https://scholar.google.com/](https://scholar.google.com/citations?user=Wzr6LJEAAAAJ&hl=en)
+
 💼 LinkedIn: [https://www.linkedin.com/in/amin-aminimehr-6a260b323/](https://www.linkedin.com/in/aminimehr/)
+
 💻 GitHub: https://github.com/aminaminimehr
 
+
 Contact:
+
 📧 [aminiman@mail.uc.edu](mailto:aminiman@mail.uc.edu)
+
