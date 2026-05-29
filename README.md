@@ -37,7 +37,6 @@ Links:
 
 💼 LinkedIn: [https://www.linkedin.com/in/amin-aminimehr-6a260b323/](https://www.linkedin.com/in/aminimehr/)
 
-💻 GitHub: https://github.com/aminaminimehr
 
 
 Contact:
