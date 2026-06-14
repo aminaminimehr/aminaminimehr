@@ -32,7 +32,7 @@ I am always interested in collaborating on research and industry projects relate
 
 Links:
 
-🌐 [Website: https://aminimehr.com](https://aminimehr.com/)
+🌐 Website: [https://aminimehr.com](https://aminimehr.com/)
 
 📚 Google Scholar: [https://scholar.google.com/](https://scholar.google.com/citations?user=Wzr6LJEAAAAJ&hl=en)
 
